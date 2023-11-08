@@ -1,1 +1,2 @@
 <?php
+echo "fichier3";
